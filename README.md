@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-1: Implementation of Bayesian Networks</H1>
 
-### Name: Rahul M R
-### Register Number: 2305003005
+### Name: Boopathy S
+### Register Number: 2305003002
 
 
 ## Aim:
